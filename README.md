@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Marc.
+- 👀 I’m interested in information science and more specifically in general artificial intelligence. 
+- 🌱 I’m currently learning how to apply insights about criticality in Deep Neural Networks for Transfer Learning.
+- 📫 Reach me at marc.steiner@ini.uzh.ch
